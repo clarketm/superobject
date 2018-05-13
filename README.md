@@ -1,2 +1,5 @@
 # superobject
-JavaScript Object with superpowers!
+
+Object with superpowers! 💪
+
+### ⚠️ This project has moved to the [super](https://github.com/clarketm/super) repository: [super/SuperObject](https://github.com/clarketm/super/tree/master/packages/superobject#readme)

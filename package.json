@@ -1,7 +1,7 @@
 {
   "name": "superobject",
   "version": "1.0.0",
-  "description": "JavaScript Object with superpowers!",
+  "description": "Object with superpowers!",
   "main": "./lib/Object.js",
   "directories": {
     "lib": "./lib"
